@@ -859,6 +859,11 @@ h2.menu-item:after {
   overflow: hidden;
 }
 
+.porfolio {
+  text-align: center;
+  margin-left: 50px;
+}
+
 .content-blocks.pop {
   left: 100%;
   opacity: 0.3;
