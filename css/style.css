@@ -447,8 +447,8 @@ a:not([href]):not([tabindex]) {
 
 .gradient-overlay1 {
   background: #945af1;
-  background: -webkit-linear-gradient(to right, #5d1d88, #945af1);
-  background: linear-gradient(to right, #5d1d88, #945af1);
+  background: -webkit-linear-gradient(to right, #242323, #000000);
+  background: linear-gradient(to right, #242323, #000000);
   height: 100%;
   position: fixed;
   width: 100%;
